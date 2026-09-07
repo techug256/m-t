@@ -1,4 +1,4 @@
-# M&T Tours & Travel — GitHub Pages Sample
+# M&T Tours & Travel — GitHub Pages 
 
 A static redesign sample for M&T Tours & Travel.
 
